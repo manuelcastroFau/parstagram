@@ -36,7 +36,7 @@ class LoginViewController: UIViewController {
         let user = PFUser()
         user.username = usernameField.text
         user.password = passwordField.text
-        
+         
         user.signUpInBackground{ (sucess, error) in
             if sucess {
                 self.performSegue(withIdentifier: "loginSegue", sender: nil)

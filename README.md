@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/JaBgOxU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Imgur](https://imgur.com/Bykkkst.gif)
+![Imgur](https://i.imgur.com/5U8DqWE.gif)
 
 For full quality watch it on youtube
 https://www.youtube.com/watch?v=tjhD3pdvjMk&ab_channel=ManuelCastro

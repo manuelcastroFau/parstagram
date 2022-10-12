@@ -27,7 +27,7 @@ oldest
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/Bykkkst.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/JaBgOxU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ![Imgur](https://imgur.com/Bykkkst.gif)
 

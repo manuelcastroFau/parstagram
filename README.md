@@ -30,5 +30,5 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/Bykkkst.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 For full quality watch it on youtube
-https://youtube.com/shorts/BzEN_CWPKOQ?feature=share
-[![My twitter app](http://img.youtube.com/vi/BzEN_CWPKOQ/0.jpg)](https://youtu.be/tjhD3pdvjMk "Parstagram")
+https://www.youtube.com/watch?v=tjhD3pdvjMk&ab_channel=ManuelCastro
+[![My twitter app](http://img.youtube.com/vi/tjhD3pdvjMk/0.jpg)](https://youtu.be/tjhD3pdvjMk "Parstagram")

@@ -7,5 +7,6 @@ target 'Parstagram' do
 
   # Pods for Parstagram
   pod 'Parse'
+  pod 'MessageInputBar'
 
 end
